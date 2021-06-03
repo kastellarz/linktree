@@ -7,17 +7,16 @@
 
 body {
     background: rgb(176, 189, 233) url(img/background.png) no-repeat center;
-    max-width: 540px;
 }
 
 a {
     text-decoration: none;
 }
 
-
 #container {
     margin: 100px auto 40px;
     width: 90%;
+    max-width: 540px;
     height: 500px;
     background: rgba(255, 255, 255, 0.3);
     border: 2px solid white;
